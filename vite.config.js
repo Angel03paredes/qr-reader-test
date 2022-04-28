@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],server:{
     port:5001
-  },base:"https://github.com/Angel03paredes/qr-reader-test/"
+  },base:"https://Angel03paredes.github.io/qr-reader-test/"
 })
